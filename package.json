@@ -1,0 +1,13 @@
+{
+    "name": "utils.vrise.selector",
+    "version": "1.0.0",
+    "displayName": "Selector",
+    "description": "Extantion for fast selection objects",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "type": "library",
+    "hideInEditor": false,
+    "dependencies": {
+    
+    }
+}  
