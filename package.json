@@ -1,10 +1,14 @@
 {
     "name": "utils.vrise.selector",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Selector",
     "description": "Extantion for fast selection objects",
     "unity": "2019.1",
     "unityRelease": "0b5",
+    "author": {
+        "name": "Viktor Rakhimov",
+        "email": "viktorrakhimov@gmail.com"
+      },
     "type": "library",
     "hideInEditor": false,
     "dependencies": {
